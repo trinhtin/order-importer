@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OrderImporter/1.0.0": {
+        "dependencies": {
+          "WooCommerceNET": "0.8.4"
+        },
+        "runtime": {
+          "OrderImporter.dll": {}
+        }
+      },
+      "WooCommerceNET/0.8.4": {
+        "runtime": {
+          "lib/netstandard2.0/WooCommerce.NET.dll": {
+            "assemblyVersion": "0.8.4.0",
+            "fileVersion": "0.8.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderImporter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WooCommerceNET/0.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fmo7QpstNhZzbhNMuJfo322Ql+tqDGaR4SRxWBXZb/UGMAn0yNvhqu6HepFyiY1QCjwqI2IKylPmOBMuyZfhiQ==",
+      "path": "woocommercenet/0.8.4",
+      "hashPath": "woocommercenet.0.8.4.nupkg.sha512"
+    }
+  }
+}

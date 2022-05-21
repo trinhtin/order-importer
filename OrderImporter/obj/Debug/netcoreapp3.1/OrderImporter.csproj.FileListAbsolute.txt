@@ -1,0 +1,16 @@
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\OrderImporter.exe
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\OrderImporter.deps.json
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\OrderImporter.runtimeconfig.json
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\OrderImporter.runtimeconfig.dev.json
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\OrderImporter.dll
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\OrderImporter.pdb
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\bin\Debug\netcoreapp3.1\WooCommerce.NET.dll
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.csproj.AssemblyReference.cache
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.AssemblyInfoInputs.cache
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.AssemblyInfo.cs
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.csproj.CoreCompileInputs.cache
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.csproj.CopyComplete
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.dll
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.pdb
+C:\Users\trinh\source\repos\OrderImporter\OrderImporter\obj\Debug\netcoreapp3.1\OrderImporter.genruntimeconfig.cache

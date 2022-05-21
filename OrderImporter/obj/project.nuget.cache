@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nflBt6+xueEl/Ii6hR7o3WM0GbzYkDqBN8gBAqQ31nuOgjrXa4lpffvXl7spT5jTxMazz6iea4Dn1rt3SX/3Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trinh\\source\\repos\\OrderImporter\\OrderImporter\\OrderImporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trinh\\.nuget\\packages\\woocommercenet\\0.8.4\\woocommercenet.0.8.4.nupkg.sha512"
+  ],
+  "logs": []
+}
